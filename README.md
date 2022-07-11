@@ -1,7 +1,7 @@
 # Hi there 👋
 **I'm Hawchik** - I'm a backend developer. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 
-<a href="#">![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,py,fastapi,mongodb,vscode,cloudflare,discord,cs,dotnet,flask,discordnet)</a><br/>
+<a href="#">![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,py,fastapi,mongodb,vscode,cloudflare,discord,cs,dotnet,flask,disnake)</a><br/>
 
 <details>
   <summary>Github Stats ⚡</summary>
